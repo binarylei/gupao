@@ -1,4 +1,4 @@
-package com.gupao.binarylei.design.observer.homework;
+package com.gupaoedu.vip.pattern.homework.day06;
 
 import com.google.common.eventbus.Subscribe;
 

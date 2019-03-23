@@ -1,4 +1,4 @@
-package com.gupao.binarylei.pattern.template.homework;
+package com.gupaoedu.vip.pattern.homework.day05.template;
 
 /**
  * @author leigang

@@ -1,4 +1,4 @@
-package com.gupao.binarylei.pattern.template.homework;
+package com.gupaoedu.vip.pattern.homework.day05.template;
 
 /**
  * Java 回调实现模板方法
